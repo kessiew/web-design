@@ -8,7 +8,7 @@ Underlined Top-Level hHading
 Underlined Subheading
 ------------------------
 
-![network breackets illustration](newwork-brackets.png)
+![network breackets illustration](network-brackets.png)
 
 Links
 [NYU](https://www.nyu.edu)
